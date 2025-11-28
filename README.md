@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Netherlands | [autorapporten.nl](https://autorapporten.nl/) | [carvertical-kortingscode](https://autorapporten.nl/carvertical-kortingscode/) | carVertical Kortings Code | carVertical Gutschein | GET20 |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Netherlands | [autorapporten.nl](https://autorapporten.nl/) | [carvertical-kortingscode](https://autorapporten.nl/carvertical-kortingscode/) | carVertical Kortings Code | carVertical Gutschein | GET20 | 20% |
 
 ## About
 

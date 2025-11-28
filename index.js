@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://autorapporten.nl/carvertical-kortingscode/',
     title: 'carVertical Kortings Code',
     button: 'carVertical Gutschein',
-    discount_code: 'GET20'
+    discount_code: 'GET20',
+    percentage: '20%'
   }
 ];
 
